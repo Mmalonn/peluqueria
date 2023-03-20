@@ -8,7 +8,7 @@ public class PeluqueriaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PeluqueriaApplication.class, args);
-		System.out.println("hola");
+		System.out.println("peluqueria running");
 	}
 
 }
